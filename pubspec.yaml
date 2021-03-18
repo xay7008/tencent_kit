@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  json_annotation: '>=2.0.0 <4.0.0'
+  json_annotation: 
 
 dev_dependencies:
   flutter_test:
